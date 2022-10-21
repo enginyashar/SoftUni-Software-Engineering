@@ -1,0 +1,13 @@
+C:\Users\Engin\source\repos\Arrays - Exercise\01.Train_more\bin\Debug\netcoreapp3.1\01.Train_more.exe
+C:\Users\Engin\source\repos\Arrays - Exercise\01.Train_more\bin\Debug\netcoreapp3.1\01.Train_more.deps.json
+C:\Users\Engin\source\repos\Arrays - Exercise\01.Train_more\bin\Debug\netcoreapp3.1\01.Train_more.runtimeconfig.json
+C:\Users\Engin\source\repos\Arrays - Exercise\01.Train_more\bin\Debug\netcoreapp3.1\01.Train_more.runtimeconfig.dev.json
+C:\Users\Engin\source\repos\Arrays - Exercise\01.Train_more\bin\Debug\netcoreapp3.1\01.Train_more.dll
+C:\Users\Engin\source\repos\Arrays - Exercise\01.Train_more\bin\Debug\netcoreapp3.1\01.Train_more.pdb
+C:\Users\Engin\source\repos\Arrays - Exercise\01.Train_more\obj\Debug\netcoreapp3.1\01.Train_more.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin\source\repos\Arrays - Exercise\01.Train_more\obj\Debug\netcoreapp3.1\01.Train_more.AssemblyInfoInputs.cache
+C:\Users\Engin\source\repos\Arrays - Exercise\01.Train_more\obj\Debug\netcoreapp3.1\01.Train_more.AssemblyInfo.cs
+C:\Users\Engin\source\repos\Arrays - Exercise\01.Train_more\obj\Debug\netcoreapp3.1\01.Train_more.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\Arrays - Exercise\01.Train_more\obj\Debug\netcoreapp3.1\01.Train_more.dll
+C:\Users\Engin\source\repos\Arrays - Exercise\01.Train_more\obj\Debug\netcoreapp3.1\01.Train_more.pdb
+C:\Users\Engin\source\repos\Arrays - Exercise\01.Train_more\obj\Debug\netcoreapp3.1\01.Train_more.genruntimeconfig.cache
