@@ -1,0 +1,14 @@
+C:\Users\Engin\source\repos\Mid Exam\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.exe
+C:\Users\Engin\source\repos\Mid Exam\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.deps.json
+C:\Users\Engin\source\repos\Mid Exam\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.runtimeconfig.json
+C:\Users\Engin\source\repos\Mid Exam\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.runtimeconfig.dev.json
+C:\Users\Engin\source\repos\Mid Exam\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.dll
+C:\Users\Engin\source\repos\Mid Exam\01.TheHuntingGames\bin\Debug\netcoreapp3.1\01.TheHuntingGames.pdb
+C:\Users\Engin\source\repos\Mid Exam\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.csproj.AssemblyReference.cache
+C:\Users\Engin\source\repos\Mid Exam\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin\source\repos\Mid Exam\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.AssemblyInfoInputs.cache
+C:\Users\Engin\source\repos\Mid Exam\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.AssemblyInfo.cs
+C:\Users\Engin\source\repos\Mid Exam\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\Mid Exam\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.dll
+C:\Users\Engin\source\repos\Mid Exam\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.pdb
+C:\Users\Engin\source\repos\Mid Exam\01.TheHuntingGames\obj\Debug\netcoreapp3.1\01.TheHuntingGames.genruntimeconfig.cache
