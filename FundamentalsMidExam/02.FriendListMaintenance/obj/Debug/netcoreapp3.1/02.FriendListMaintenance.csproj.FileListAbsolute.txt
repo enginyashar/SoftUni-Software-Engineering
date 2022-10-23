@@ -1,0 +1,14 @@
+C:\Users\Engin\source\repos\Mid Exam\02.FriendListMaintenance\bin\Debug\netcoreapp3.1\02.FriendListMaintenance.exe
+C:\Users\Engin\source\repos\Mid Exam\02.FriendListMaintenance\bin\Debug\netcoreapp3.1\02.FriendListMaintenance.deps.json
+C:\Users\Engin\source\repos\Mid Exam\02.FriendListMaintenance\bin\Debug\netcoreapp3.1\02.FriendListMaintenance.runtimeconfig.json
+C:\Users\Engin\source\repos\Mid Exam\02.FriendListMaintenance\bin\Debug\netcoreapp3.1\02.FriendListMaintenance.runtimeconfig.dev.json
+C:\Users\Engin\source\repos\Mid Exam\02.FriendListMaintenance\bin\Debug\netcoreapp3.1\02.FriendListMaintenance.dll
+C:\Users\Engin\source\repos\Mid Exam\02.FriendListMaintenance\bin\Debug\netcoreapp3.1\02.FriendListMaintenance.pdb
+C:\Users\Engin\source\repos\Mid Exam\02.FriendListMaintenance\obj\Debug\netcoreapp3.1\02.FriendListMaintenance.csproj.AssemblyReference.cache
+C:\Users\Engin\source\repos\Mid Exam\02.FriendListMaintenance\obj\Debug\netcoreapp3.1\02.FriendListMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin\source\repos\Mid Exam\02.FriendListMaintenance\obj\Debug\netcoreapp3.1\02.FriendListMaintenance.AssemblyInfoInputs.cache
+C:\Users\Engin\source\repos\Mid Exam\02.FriendListMaintenance\obj\Debug\netcoreapp3.1\02.FriendListMaintenance.AssemblyInfo.cs
+C:\Users\Engin\source\repos\Mid Exam\02.FriendListMaintenance\obj\Debug\netcoreapp3.1\02.FriendListMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\Mid Exam\02.FriendListMaintenance\obj\Debug\netcoreapp3.1\02.FriendListMaintenance.dll
+C:\Users\Engin\source\repos\Mid Exam\02.FriendListMaintenance\obj\Debug\netcoreapp3.1\02.FriendListMaintenance.pdb
+C:\Users\Engin\source\repos\Mid Exam\02.FriendListMaintenance\obj\Debug\netcoreapp3.1\02.FriendListMaintenance.genruntimeconfig.cache

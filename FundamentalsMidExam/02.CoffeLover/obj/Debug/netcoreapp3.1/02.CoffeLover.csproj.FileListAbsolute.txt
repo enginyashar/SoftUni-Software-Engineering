@@ -1,0 +1,14 @@
+C:\Users\Engin\source\repos\Mid Exam\02.CoffeLover\bin\Debug\netcoreapp3.1\02.CoffeLover.exe
+C:\Users\Engin\source\repos\Mid Exam\02.CoffeLover\bin\Debug\netcoreapp3.1\02.CoffeLover.deps.json
+C:\Users\Engin\source\repos\Mid Exam\02.CoffeLover\bin\Debug\netcoreapp3.1\02.CoffeLover.runtimeconfig.json
+C:\Users\Engin\source\repos\Mid Exam\02.CoffeLover\bin\Debug\netcoreapp3.1\02.CoffeLover.runtimeconfig.dev.json
+C:\Users\Engin\source\repos\Mid Exam\02.CoffeLover\bin\Debug\netcoreapp3.1\02.CoffeLover.dll
+C:\Users\Engin\source\repos\Mid Exam\02.CoffeLover\bin\Debug\netcoreapp3.1\02.CoffeLover.pdb
+C:\Users\Engin\source\repos\Mid Exam\02.CoffeLover\obj\Debug\netcoreapp3.1\02.CoffeLover.csproj.AssemblyReference.cache
+C:\Users\Engin\source\repos\Mid Exam\02.CoffeLover\obj\Debug\netcoreapp3.1\02.CoffeLover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin\source\repos\Mid Exam\02.CoffeLover\obj\Debug\netcoreapp3.1\02.CoffeLover.AssemblyInfoInputs.cache
+C:\Users\Engin\source\repos\Mid Exam\02.CoffeLover\obj\Debug\netcoreapp3.1\02.CoffeLover.AssemblyInfo.cs
+C:\Users\Engin\source\repos\Mid Exam\02.CoffeLover\obj\Debug\netcoreapp3.1\02.CoffeLover.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\Mid Exam\02.CoffeLover\obj\Debug\netcoreapp3.1\02.CoffeLover.dll
+C:\Users\Engin\source\repos\Mid Exam\02.CoffeLover\obj\Debug\netcoreapp3.1\02.CoffeLover.pdb
+C:\Users\Engin\source\repos\Mid Exam\02.CoffeLover\obj\Debug\netcoreapp3.1\02.CoffeLover.genruntimeconfig.cache
