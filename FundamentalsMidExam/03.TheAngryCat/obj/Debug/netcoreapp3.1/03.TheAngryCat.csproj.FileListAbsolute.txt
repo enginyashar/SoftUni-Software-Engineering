@@ -1,0 +1,14 @@
+C:\Users\Engin\source\repos\Mid Exam\03.TheAngryCat\bin\Debug\netcoreapp3.1\03.TheAngryCat.exe
+C:\Users\Engin\source\repos\Mid Exam\03.TheAngryCat\bin\Debug\netcoreapp3.1\03.TheAngryCat.deps.json
+C:\Users\Engin\source\repos\Mid Exam\03.TheAngryCat\bin\Debug\netcoreapp3.1\03.TheAngryCat.runtimeconfig.json
+C:\Users\Engin\source\repos\Mid Exam\03.TheAngryCat\bin\Debug\netcoreapp3.1\03.TheAngryCat.runtimeconfig.dev.json
+C:\Users\Engin\source\repos\Mid Exam\03.TheAngryCat\bin\Debug\netcoreapp3.1\03.TheAngryCat.dll
+C:\Users\Engin\source\repos\Mid Exam\03.TheAngryCat\bin\Debug\netcoreapp3.1\03.TheAngryCat.pdb
+C:\Users\Engin\source\repos\Mid Exam\03.TheAngryCat\obj\Debug\netcoreapp3.1\03.TheAngryCat.csproj.AssemblyReference.cache
+C:\Users\Engin\source\repos\Mid Exam\03.TheAngryCat\obj\Debug\netcoreapp3.1\03.TheAngryCat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin\source\repos\Mid Exam\03.TheAngryCat\obj\Debug\netcoreapp3.1\03.TheAngryCat.AssemblyInfoInputs.cache
+C:\Users\Engin\source\repos\Mid Exam\03.TheAngryCat\obj\Debug\netcoreapp3.1\03.TheAngryCat.AssemblyInfo.cs
+C:\Users\Engin\source\repos\Mid Exam\03.TheAngryCat\obj\Debug\netcoreapp3.1\03.TheAngryCat.csproj.CoreCompileInputs.cache
+C:\Users\Engin\source\repos\Mid Exam\03.TheAngryCat\obj\Debug\netcoreapp3.1\03.TheAngryCat.dll
+C:\Users\Engin\source\repos\Mid Exam\03.TheAngryCat\obj\Debug\netcoreapp3.1\03.TheAngryCat.pdb
+C:\Users\Engin\source\repos\Mid Exam\03.TheAngryCat\obj\Debug\netcoreapp3.1\03.TheAngryCat.genruntimeconfig.cache
