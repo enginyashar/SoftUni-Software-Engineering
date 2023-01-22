@@ -7,6 +7,8 @@ namespace _5._Square_With_Maximum_Sum
     {
         static void Main(string[] args)
         {
+            int squareRows = 2;
+            int squareCols = 2;
             int[] sizes = Console.ReadLine().Split(", ").Select(int.Parse).ToArray();
             int rows = sizes[0];
             int cols = sizes[1];
@@ -25,14 +27,14 @@ namespace _5._Square_With_Maximum_Sum
                 }
             }
 
-            for (int row = 0; row < rows - 1; row++)
+            for (int row = 0; row <= rows - squareRows; row++)
             {                
-                for (int col = 0; col < cols - 1; col++)
+                for (int col = 0; col <= cols - squareCols; col++)
                 {
                     int sum = 0;
-                    for (int squareRow = 0; squareRow < 2; squareRow++)
+                    for (int squareRow = 0; squareRow < squareRows; squareRow++)
                     {                        
-                        for (int squareCol = 0; squareCol < 2; squareCol++)
+                        for (int squareCol = 0; squareCol < squareCols; squareCol++)
                         {
                             sum += matrix[row + squareRow, col + squareCol];
                         }                        
@@ -45,8 +47,16 @@ namespace _5._Square_With_Maximum_Sum
                     }
                 }                
             }
-            Console.WriteLine($"{matrix[maxRow, maxCol]} {matrix[maxRow, maxCol + 1]}");
-            Console.WriteLine($"{matrix[maxRow + 1, maxCol]} {matrix[maxRow + 1, maxCol + 1]}");
+
+            for (int squareRow = 0; squareRow < squareRows; squareRow++)
+            {
+                for (int squareCol = 0; squareCol < squareCols; squareCol++)
+                {
+                    Console.Write($"{matrix[maxRow + squareRow, maxCol + squareCol]} ");
+                }
+                Console.WriteLine();
+            }
+            
             Console.WriteLine(maxSum);
         }
     }
