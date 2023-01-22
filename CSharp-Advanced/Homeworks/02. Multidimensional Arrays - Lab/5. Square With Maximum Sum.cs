@@ -30,11 +30,13 @@ namespace _5._Square_With_Maximum_Sum
                 for (int col = 0; col < cols - 1; col++)
                 {
                     int sum = 0;
-                    sum += matrix[row, col];                    
-                    sum += matrix[row + 1, col];                    
-                    sum += matrix[row, col + 1];                    
-                    sum += matrix[row + 1, col + 1];
-
+                    for (int squareRow = 0; squareRow < 2; squareRow++)
+                    {                        
+                        for (int squareCol = 0; squareCol < 2; squareCol++)
+                        {
+                            sum += matrix[row + squareRow, col + squareCol];
+                        }                        
+                    }
                     if (sum > maxSum)
                     {
                         maxSum = sum;
