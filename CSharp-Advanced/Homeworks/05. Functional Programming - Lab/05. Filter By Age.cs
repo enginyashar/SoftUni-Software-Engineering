@@ -27,18 +27,7 @@ namespace _05._Filter_By_Age
             int filterValue = int.Parse(Console.ReadLine());
             string action = Console.ReadLine();
 
-
-            foreach (var (personName, personAge) in persons.Where(x =>
-                                                            {
-                                                                if (filterType == "older")
-                                                                {
-                                                                    return x.Value >= filterValue;
-                                                                }
-                                                                else
-                                                                {
-                                                                    return x.Value < filterValue;
-                                                                }
-                                                            }))
+            foreach (var (personName, personAge) in persons.Where(x => filterType == "older" ? x.Value >= filterValue : x.Value < filterValue))
             {
                 if (action == "name age")
                 {
@@ -53,8 +42,6 @@ namespace _05._Filter_By_Age
                     Console.WriteLine(personAge);
                 }
             }
-
         }
-
     }
 }
